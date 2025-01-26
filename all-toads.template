@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>All Toads Leaderboard</title>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <link type="text/css" rel="stylesheet" href="all-toads/reset.css">
+    <link type="text/css" rel="stylesheet" href="all-toads/style.css">
+    <script src="All%20Toads%20Leaderboard_files/script.js"
+      defer="defer"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>All Toads Leaderboard</h1>
+      <table>
+        <tbody>
+
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
