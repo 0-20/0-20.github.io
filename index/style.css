@@ -17,11 +17,10 @@ body {
 }
 
 .sub-container {
-  padding: 0 6em;
+  padding: 0em 6em;
   display: flex;
   flex-direction: column;
-  row-gap: 0.5vh;
-  gap: 1em;
+  row-gap: 3.5vh;
 }
 
 th {
